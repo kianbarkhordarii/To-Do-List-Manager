@@ -34,7 +34,7 @@ pip install pandas openpyxl
 
 3. **Start the App:**
 ```bash
-python todolist.py
+python todo_manager.py
 
 ```
 
